@@ -8,7 +8,6 @@ This repository contains a React component that renders an image gallery with ac
 - [Props](#props)
 - [Usage](#usage)
 - [Code Structure](#code-structure)
-- [License](#license)
 - [Contributing](#contributing)
 - [Issues](#issues)
 - [Acknowledgments](#acknowledgments)
@@ -41,9 +40,6 @@ const handleOpenModal = (image) => {
 The component is defined in a single file, `ImageGallery.js`. The file imports React and PropTypes, and defines the `ImageGallery` component as a functional component.
 
 The component uses an `images` array to store the list of images, which is then mapped over to render individual image containers. Each image container has an `onClick` event handler that calls the `onOpenModal` function when clicked, and an `onKeyDown` event handler that calls the `onOpenModal` function when the Enter key is pressed.
-
-## License
-This component is licensed under the MIT License. See the [LICENSE](./LICENSE) file for details.
 
 ## Contributing
 Contributions are welcome! If you'd like to contribute to this component, please fork the repository, make your changes, and submit a pull request.
