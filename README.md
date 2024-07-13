@@ -1,6 +1,3 @@
-Here's a properly formatted README for your GitHub repository:
-
-```markdown
 # Image Gallery Component
 
 This repository contains a React component that renders an image gallery with accessibility features. The component displays a list of images with their corresponding titles and allows users to open a modal window by clicking or pressing the Enter key on an image.
@@ -56,6 +53,3 @@ If you encounter any issues with this component, please open an issue on the Git
 
 ## Acknowledgments
 Thanks to the Mainflow Service and Technology team for guidance and support during the development of this project.
-```
-
-This README is now formatted properly and includes all the sections you outlined. You can copy and paste this into your `README.md` file in your GitHub repository.
